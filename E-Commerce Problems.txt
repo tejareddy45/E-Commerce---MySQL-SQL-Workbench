@@ -1,0 +1,11 @@
+E-Commerce --- Problems
+
+1.Which product has the highest price?
+
+2.Which product has the highest price?
+
+3.Which product has the highest total revenue?
+
+4.Find the top customer who have ordered the most distinct products
+
+5.Find the first order (by date) for  customer "John Doe".
