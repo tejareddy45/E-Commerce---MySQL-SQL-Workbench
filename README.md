@@ -24,7 +24,7 @@ Built an E-commerce database to manage customers, orders, products, and transact
 - Calculate total revenue generated from sales.
 - Retrieve orders placed within a specific time frame.
   
-  **Performance Enhancement:** Implemented indexing for faster data retrieval.
+**Performance Enhancement:** Implemented indexing for faster data retrieval.
   
 ## Final Conclusion
 This project enables efficient order management, customer tracking, and sales insights, making it useful for e-commerce data analysis.
